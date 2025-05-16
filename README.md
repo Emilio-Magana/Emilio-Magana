@@ -9,7 +9,7 @@
 
 <samp>-  📡 Flexible for on-site or remote opportunities </samp>
 
-🌐 <a href="https://portfolio-nu-orcin-61.vercel.app/"><strong>Check Out My Portfolio</strong></a>
+🌐 <a href="https://www.magemi.dev/"><strong>Check Out My Portfolio</strong></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilio-magana&label=Profile%20views&color=0e75b6&style=flat&base=70" alt="emimag" /> </p>
 <br/>
