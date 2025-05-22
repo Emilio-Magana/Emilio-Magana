@@ -5,7 +5,7 @@
 
 <samp>- 👨‍💻 <strong>Currently Open to Work</strong> </samp>
 
-<samp>-  📍 Currently Living in Hanoi </samp>
+<samp>-  📍 Currently Living in Hanoi, soon to be Berlin in June </samp>
 
 <samp>-  📡 Flexible for on-site or remote opportunities </samp>
 
